@@ -1,0 +1,8 @@
+E:\gitrepo\myFirstRepo\myFirstRepo\bin\myFirstRepo.dll.config
+E:\gitrepo\myFirstRepo\myFirstRepo\bin\myFirstRepo.dll
+E:\gitrepo\myFirstRepo\myFirstRepo\bin\myFirstRepo.pdb
+E:\gitrepo\myFirstRepo\myFirstRepo\bin\Newtonsoft.Json.dll
+E:\gitrepo\myFirstRepo\myFirstRepo\bin\Newtonsoft.Json.xml
+E:\gitrepo\myFirstRepo\myFirstRepo\obj\Debug\myFirstRepo.csprojResolveAssemblyReference.cache
+E:\gitrepo\myFirstRepo\myFirstRepo\obj\Debug\myFirstRepo.dll
+E:\gitrepo\myFirstRepo\myFirstRepo\obj\Debug\myFirstRepo.pdb
